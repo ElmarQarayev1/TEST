@@ -1,0 +1,5 @@
+C:\Users\elmareg\Desktop\Codeacademy\labdersleri\lab3\sqlLabProject\sqlLabProject\obj\Debug\net6.0\sqlLabProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmareg\Desktop\Codeacademy\labdersleri\lab3\sqlLabProject\sqlLabProject\obj\Debug\net6.0\sqlLabProject.AssemblyInfoInputs.cache
+C:\Users\elmareg\Desktop\Codeacademy\labdersleri\lab3\sqlLabProject\sqlLabProject\obj\Debug\net6.0\sqlLabProject.AssemblyInfo.cs
+C:\Users\elmareg\Desktop\Codeacademy\labdersleri\lab3\sqlLabProject\sqlLabProject\obj\Debug\net6.0\sqlLabProject.csproj.CoreCompileInputs.cache
+C:\Users\elmareg\Desktop\Codeacademy\labdersleri\lab3\sqlLabProject\sqlLabProject\obj\Debug\net6.0\sqlLabProject.sourcelink.json
